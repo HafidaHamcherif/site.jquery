@@ -1,0 +1,23 @@
+/* header */
+.carousel-container{
+    border: 5px solid black;
+}
+
+.carousel-slide{
+    display: flex;
+    height:500px;
+    width:100%;
+}
+
+/* section video */
+#bg{
+    border: solid 5px black;
+    background-color: green;
+}
+
+#end{
+    background-color: green;
+}
+
+
+
